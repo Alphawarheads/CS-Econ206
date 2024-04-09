@@ -12,7 +12,7 @@ Currently learning something new
 ## Let's Connect 🤝
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourhandle/)
-- 🌐 Visit my [website](https://www.yourwebsite.com/)
+- 🐦 Follow me on [something](https://twitter.com/yourhandle/](https://www.sketchswap.com/))
+- 🌐 Visit my [website](https://github.com/Alphawarheads/CS-Econ206)
 
 Feel free to explore my repositories! 😊
