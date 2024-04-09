@@ -1,12 +1,13 @@
 # Hello, I'm Zhenshan Zhang! 👋
+![ZhenshanZhang](Advance_CSEcon/assets/OIP-C.jpg)
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 🌱 I'm currently learning [specific area or technology].
-- 💬 Ask me about [topics you're knowledgeable about].
-- 📫 How to reach me: [your email or social media handles].
+I am currently a sophomore majoring in Applied mathemetics.
 
-![Your Name](https://example.com/your-picture.jpg)
+Enjoys music
+
+Currently learning something new
 
 ## Let's Connect 🤝
 
@@ -14,4 +15,4 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🐦 Follow me on [Twitter](https://twitter.com/yourhandle/)
 - 🌐 Visit my [website](https://www.yourwebsite.com/)
 
-Feel free to explore my repositories and reach out for collaborations or questions! 😊
+Feel free to explore my repositories! 😊
