@@ -22,9 +22,9 @@ Proposed Innovative Software Solution:
 1. User friendly GUI: Could provide researchers with an intuitive interface equipped with drag-and-drop functionalities, similar to that of scratch, allowing for seamless customization of game structures, parameters, and decision paths. Researchers can easily design complex games with dynamic decision-making environments tailored to their specific research objectives.
 
 2. Integrated Data Management and Analysis Tools: Could incorporates built-in data management and analysis features, streamlining the process of data collection, organization, and analysis. Researchers can efficiently export data in various formats, perform real-time analyses, and visualize results within the software interface, reducing reliance on external tools and minimizing potential errors.
-![screenshot](images/screenshot.jpg)
+![screenshot](assets/image.png)
 *Figure 1: A pain point*
-![graph](images/graph.jpg)
+![graph](assets/image1.png)
 *Figure 2: Flowchat for Question 1*
 ### Question 2
 Multi-Agent Reinforcement Learning (MARL) presents a promising avenue for tackling complex decision-making scenarios involving multiple interacting agents. However, its application to real-world problems, such as playing international chess, faces significant challenges. This report delves into the limitations of current MARL frameworks, focusing on environmental constraints and agent algorithm customizations, with insights drawn from the development process of a MARL agent for international chess.
