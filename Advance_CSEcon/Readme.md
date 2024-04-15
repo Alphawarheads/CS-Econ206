@@ -26,11 +26,11 @@ Proposed Innovative Software Solution:
 
 ![graph](assets/image1.png)
 
-*Figure 2: Flowchat for Question 1*
+*Fig. 2: Flowchat for Question 1*
 ### Question 2
 ![chess](assets/image2.png)
 
-*Figure 3: Running the chess game on PettingZoo*
+*Fig. 3: Running the chess game on PettingZoo*
 
 Multi-Agent Reinforcement Learning (MARL) presents a promising avenue for tackling complex decision-making scenarios involving multiple interacting agents. However, its application to real-world problems, such as playing international chess, faces significant challenges. This report delves into the limitations of current MARL frameworks, focusing on environmental constraints and agent algorithm customizations, with insights drawn from the development process of a MARL agent for international chess.
 
@@ -58,7 +58,8 @@ Proposed Solutions to Overcome Limitations:
 
 3. Curriculum Learning: Gradually increasing the complexity of the training environment can help agents learn progressively more challenging strategies. Starting with simplified versions of the game and gradually introducing additional rules and complexities can improve the robustness and generalization of MARL agents.
    
-
+![screenshot](assets/im1.png)
+*Fig. 4: The mind map of the answer to question two.*
 
 ### Question 3(Luo et al. 2023)
 Summary of the Paper (Luo et al. 2023):
@@ -91,8 +92,11 @@ Incorporating insights from bounded rationality into the analysis of federated l
 
 ![chess](assets/image3.png)
 
-*Figure 4: Response of Chatgpt*
+*Fig. 5: Response of Chatgpt*
 
+![screenshot](assets/im2.png)
+
+*Fig. 6: The mind map of the answer to question three.*
 
 ## Bibliography
 tutorials, oTree. “oTree Tutorials Part 1: Introduction.” Youtube, 2021. https://www.youtube.com/watch?v=OzkFvVhoHr0&t=292s.
@@ -107,4 +111,4 @@ Zhang, L. (Sunshine), Tian, X. (Michelle), Zhuang, Z., Zhang, L. (Sunshine), Tia
 
 ![screenshot](assets/image4.png)
 
-*Figure 5: Screenshot of Grammarly*
+*Figure 7: Screenshot of Grammarly*
