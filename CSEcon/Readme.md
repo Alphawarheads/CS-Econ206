@@ -17,6 +17,7 @@ From the Turing Award winners, I'll choose Donald Knuth, a computer scientist kn
 I could possibly contribute by developing algorithmic solutions for social welfare, leveraging data-driven approaches in development economics, creating computational tools for ethical decision-making, enhancing education and accessibility through innovative instructional design, and fostering interdisciplinary collaboration.
 
 ![screenshot](assets/img1.png)
+Fig.1 The mind map of my answer for question one.
 
 ### Question 2
 The synergy between computer science and economics indeed acts as a potent force for steering innovation toward a brighter future, reshaping and redefining human behaviors. This is particularly evident in the emergence of Blockchain technology, a decentralized and immutable ledger system that presents a paradigm shift in how trust is established and transactions are conducted.
@@ -39,6 +40,8 @@ Trust in Digital Identities:
 
 Blockchain-based identity solutions offer secure and decentralized management of digital identities, reducing the risk of identity theft.
 ![screenshot](assets/img2.png)
+Fig.2 The mind map of my answer for question one.
+
 ### Question 3
 In the realm of strategic contexts, the evolving interplay between humans and AI agents is deeply influenced by fundamental aspects of human nature, such as bounded rationality, and the emergence of pioneering technologies like generative AI. This dynamic reshaping of interactions prompts a nuanced examination, distinct from current models, regarding the roles and capabilities of both humans and machines.
 
@@ -49,6 +52,7 @@ Nevertheless, akin to their human counterparts, machines are encumbered by limit
 Thus, there is a necessity for the development of hybrid decision-making approaches, enhancing the effectiveness of strategic choices in sectors like finance and policymaking. This merging emphasizes the importance of grasping the interaction between these decision-making elements.
 
 ![screenshot](assets/img3.png)
+Fig.3 The mind map of my answer for question one.
 ## Bibliography
 Chen, Yiting, Tracy Xiao Liu, You Shan, and Songfa Zhong. 2023. “The Emergence of Economic Rationality of GPT.” Proceedings of the National Academy of Sciences of the United States of
 
@@ -61,4 +65,5 @@ Fan, Caoyun, Jindou Chen, Yaohui Jin, and Hao He. 2023. “Can Large Language Mo
 2023. https://doi.org/10.48550/arXiv.2312.05488.
 
 “The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 1998.” n.d. NobelPrize.org. https://www.nobelprize.org/prizes/economic-sciences/1998/sen/facts/.
-
+![screenshot](assets/img0.png)
+Fig.4 Screen shot of Grammarly
