@@ -107,4 +107,4 @@ Zhang, L. (Sunshine), Tian, X. (Michelle), Zhuang, Z., Zhang, L. (Sunshine), Tia
 
 ![screenshot](assets/image4.png)
 
-*Figure 5: *
+*Figure 5: Screenshot of Grammarly*
