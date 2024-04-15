@@ -52,6 +52,7 @@ Nevertheless, akin to their human counterparts, machines are encumbered by limit
 Thus, there is a necessity for the development of hybrid decision-making approaches, enhancing the effectiveness of strategic choices in sectors like finance and policymaking. This merging emphasizes the importance of grasping the interaction between these decision-making elements.
 
 ![screenshot](assets/img3.png)
+
 Fig.3 The mind map of my answer for question one.
 ## Bibliography
 Chen, Yiting, Tracy Xiao Liu, You Shan, and Songfa Zhong. 2023. “The Emergence of Economic Rationality of GPT.” Proceedings of the National Academy of Sciences of the United States of
@@ -69,4 +70,4 @@ Fan, Caoyun, Jindou Chen, Yaohui Jin, and Hao He. 2023. “Can Large Language Mo
 
 ![screenshot](assets/img0.png)
 
-Fig.4 Screen shot of Grammarly
+Fig.4 Screenshot of Grammarly
