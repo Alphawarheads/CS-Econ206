@@ -16,7 +16,7 @@ From the Turing Award winners, I'll choose Donald Knuth, a computer scientist kn
 
 I could possibly contribute by developing algorithmic solutions for social welfare, leveraging data-driven approaches in development economics, creating computational tools for ethical decision-making, enhancing education and accessibility through innovative instructional design, and fostering interdisciplinary collaboration.
 
-
+![screenshot](assets/img1.png)
 
 ### Question 2
 The synergy between computer science and economics indeed acts as a potent force for steering innovation toward a brighter future, reshaping and redefining human behaviors. This is particularly evident in the emergence of Blockchain technology, a decentralized and immutable ledger system that presents a paradigm shift in how trust is established and transactions are conducted.
@@ -38,7 +38,7 @@ Governed by smart contracts and blockchain technology, DAOs exemplify trustless 
 Trust in Digital Identities:
 
 Blockchain-based identity solutions offer secure and decentralized management of digital identities, reducing the risk of identity theft.
-
+![screenshot](assets/img2.png)
 ### Question 3
 In the realm of strategic contexts, the evolving interplay between humans and AI agents is deeply influenced by fundamental aspects of human nature, such as bounded rationality, and the emergence of pioneering technologies like generative AI. This dynamic reshaping of interactions prompts a nuanced examination, distinct from current models, regarding the roles and capabilities of both humans and machines.
 
@@ -48,7 +48,7 @@ Nevertheless, akin to their human counterparts, machines are encumbered by limit
 
 Thus, there is a necessity for the development of hybrid decision-making approaches, enhancing the effectiveness of strategic choices in sectors like finance and policymaking. This merging emphasizes the importance of grasping the interaction between these decision-making elements.
 
-
+![screenshot](assets/img3.png)
 ## Bibliography
 Chen, Yiting, Tracy Xiao Liu, You Shan, and Songfa Zhong. 2023. “The Emergence of Economic Rationality of GPT.” Proceedings of the National Academy of Sciences of the United States of
 
